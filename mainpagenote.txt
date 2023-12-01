@@ -1,0 +1,37 @@
+<html>
+<head>
+<title>animathronics</title>
+</head>
+<body background="background.jpg">
+<center><img src="logo.png" height="600"width="600"></center>
+<font color="white"size="21"><center>Good Day to you, our website visitor, learn together with us as you explore this page!!<br>
+Click the texts given below and you will be directed to the page of your liking: </font>
+<br>
+<br>
+<a href="relationandfunction.html"><center><font color="orange"size="16">Relation and Function</font></a>
+<a href="domainandrange.html"><center><font color="orange"size="16">Domain and Range</font></a>
+<a href="dependentindependentvaria.html"><center><font color="orange"size="16">Dependent and Independent Variable</font></a>
+<a href="linearfunction.html"><center><font color="orange"size="16">Graph of a Linear Function</font></a>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<font color="orange"size="21"><center>SOURCES</font><br>
+<br>
+<br>
+<font color="white"size="16">
+https://drive.google.com/file/d/1mcp1ZHTCn1C5_AxvzLlBhuHtSyArb6jH/view?usp=drive_web&authuser=0
+<br>
+<br>
+https://drive.google.com/file/d/1NN97Yuw8bYWRRxgmT6vyFFs521XjEeQp/view?usp=drive_web&authuser=0
+<br>
+<br>
+<font color="orange"size="25">END - Hope you learned something from this page.</font><br>
+<font color="white"size="16">BY: Azurin, Paul Benedict M. and Dela Cruz, Bianca Jeyan A. : 8-PEARL</font>
+</body>
+</html>
+

@@ -1,0 +1,18 @@
+<html>
+<head>
+<title>animathronics-relation-function</title>
+</head>
+<body background="background.jpg">
+<center><img src="logo.png" height="600"width="600"></center>
+<font color="purple"><h2><center>Welcome to <em>Domain and Range</em></h2></font>
+<br>
+<br>
+<font color="orange"size="21"><center>One-to-one correspondence:</font><font color="white"size="16">it refers to the relationship between domain and range in which one element of the domain is mapped to one element of the range.</font>
+<br>
+<br>
+<font color="orange"size="21"><center>Many-to-one correspondence:</font><font color="white"size="16">It refers to the relationship between domain and range in which two or more
+elements of the domain are mapped to the same element of the range.</font>
+<br>
+<br>
+<font color="orange"size="21"><center>One-to-many correspondence:</font><font color="white"size="16">It refers to the relationship between domain and range in which one element
+of the domain is mapped to two or more element of the range</font>
